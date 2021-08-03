@@ -1,0 +1,5 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"EMPNO","NUMBER(6,0)","Yes","",""
+"ADDRESS","VARCHAR2(30)","Yes","",""
+"PHONENO","VARCHAR2(11)","Yes","",""
+"EMAILID","VARCHAR2(20)","Yes","",""
